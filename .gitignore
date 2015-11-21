@@ -1,0 +1,4 @@
+*.pyc
+__pycache__ #virtual env
+db.sqlite3
+.DS_Store #for mac 
